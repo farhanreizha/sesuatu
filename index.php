@@ -13,7 +13,7 @@
       crossorigin="anonymous"
     />
     <link rel="stylesheet" href="style.css" />
-    <title>Hello, world!</title>
+    <title>Sesuatu</title>
   </head>
   <body>
     <div class="mom container-xxl">
