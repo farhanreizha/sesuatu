@@ -1,0 +1,30 @@
+.mom {
+  margin: 45% 5%;
+  transform: translate(-5%);
+  -webkit-transform: translate(-5%);
+  -moz-transform: translate(-5%);
+  -ms-transform: translate(-5%);
+  -o-transform: translate(-5%);
+}
+
+@media only screen and (min-width: 1140px) {
+  .mom {
+    margin: 20% 5%;
+    transform: translate(-5%);
+    -webkit-transform: translate(-5%);
+    -moz-transform: translate(-5%);
+    -ms-transform: translate(-5%);
+    -o-transform: translate(-5%);
+  }
+}
+
+@media only screen and (min-width: 1320px) {
+  .mom {
+    margin: 20% 20%;
+    transform: translate(-5%);
+    -webkit-transform: translate(-5%);
+    -moz-transform: translate(-5%);
+    -ms-transform: translate(-5%);
+    -o-transform: translate(-5%);
+  }
+}
