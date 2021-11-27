@@ -7,6 +7,10 @@ click.addEventListener("click", function () {
   while (ok === true) {
     var nama = prompt("Masukan Nama:");
 
+    if (ok === false) {
+      alert("yah kok di close :'(");
+    }
+
     alert("Hii" + " " + nama);
     alert("ScreenRecord ya!!!");
     alert("Kalo udah selesai nanti kirim ke yang ngasih link ini");
